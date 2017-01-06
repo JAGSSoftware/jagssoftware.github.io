@@ -4,7 +4,6 @@
 <param name="FrameName" value="right">
 </OBJECT>
 <UL>
-<LI><OBJECT type="text/sitemap"><param name="Name" value="Dynamics"><param name="Local" value="d3/dcc/md__r_e_a_d_m_e.html"><param name="ImageNumber" value="11"></OBJECT>
 <LI><OBJECT type="text/sitemap"><param name="Name" value="Modules"><param name="Local" value="modules.html"><param name="ImageNumber" value="1"></OBJECT>
   <UL>
   <LI><OBJECT type="text/sitemap"><param name="Name" value="Constants"><param name="Local" value="d0/dc5/group__constants.html"><param name="ImageNumber" value="1"></OBJECT>
